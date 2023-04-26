@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 requirements.in
 myvenv/
+__pycache__/
