@@ -24,5 +24,5 @@ Send postcards as mailers for the offers, improve the air-miles reward program.
 
 - What type of households might the bank try to focus in the customer acquisition for new offers?
 
-HOuseholds of 3 or less.
+Households of 3 or less.
 
