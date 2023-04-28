@@ -1,4 +1,5 @@
-
+import pandas as pd
+import numpy as np
     
 def pctbygroup(df,y):
     '''this function will provide a dictionary of dataframes with the percentage of frequency of values of column if less than 10 y aggregated by each column that corrresponds to the key of the dictionary'''
